@@ -1,3 +1,4 @@
+## assignment 3 question 1
 
 best <- function(state, outcome){
 	
